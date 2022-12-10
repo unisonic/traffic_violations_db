@@ -1,4 +1,4 @@
-# traffic_violations_db
+# Макет базы данных для обработки нарушений ПДД
 
 Here is a database which stores information about penalties of drivers accused of traffic violations. 
 
